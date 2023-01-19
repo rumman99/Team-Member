@@ -1,0 +1,12 @@
+.box{
+    text-align: center;
+    border: 2px solid red;
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-top: 50px;
+    padding-top: 25px;
+}
+
+.box img{
+    height: 200px;
+}
